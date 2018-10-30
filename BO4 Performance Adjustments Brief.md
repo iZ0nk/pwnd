@@ -97,7 +97,7 @@ auto_cull_radius = "1" // 0 to 10
 local_ambient_lighting = "0" // 0 or 1
 
 //Set to zero to force auto-detect to run at startup
-auto_detect_has_run = "0" // 0 or 1
+auto_detect_has_run = "1" // 0 or 1
 ```
 
 ## n00b
